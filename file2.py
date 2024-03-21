@@ -1,0 +1,1 @@
+print("Se genera desde un inicio")
