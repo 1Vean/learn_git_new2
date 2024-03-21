@@ -1,1 +1,1 @@
-print("Vamos a ganar: ")
+print("Vamos a ganar el partido de hoy: ")
